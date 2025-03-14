@@ -1,6 +1,6 @@
 # Code Generation with CodeGen Model - Streamlit App
 
-![APP](https://github.com/vivek12367/OpenAi/issues/1#issue-2918826673)
+![APP](https://private-user-images.githubusercontent.com/101359606/422608062-cf1e18eb-389a-47d0-a554-3eb884a42dbe.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE5MTk1MTYsIm5iZiI6MTc0MTkxOTIxNiwicGF0aCI6Ii8xMDEzNTk2MDYvNDIyNjA4MDYyLWNmMWUxOGViLTM4OWEtNDdkMC1hNTU0LTNlYjg4NGE0MmRiZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxNFQwMjI2NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYjRhYzM4Yjg5NDM5NTA1ZWYyNTg2YzllMzJiM2RkYWRiZTFiODA1ZmQ2YzM1YjRmNGNkODFhMzRiM2Q2Mzk0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.AfdhaOzhVl5xUu4VjgOLWTEFlM_J87GOhlkhl19Zbww)
 
 ## Business Objective
 The primary goal of this project is to create a user-friendly web application using Streamlit that leverages a pre-trained **CodeGen model** from Salesforce to generate Python code based on user input. The application is designed to help developers, data scientists, and engineers quickly prototype code snippets, functions, or even complete programs by simply providing a textual prompt. The app also includes features to validate the generated code for syntax errors, allowing users to download their code for further use.
